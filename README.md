@@ -50,9 +50,6 @@ Ensure you have Node.js and npm installed.
    ```
 5. The server starts on `localhost:5173`
 
-## File Structure
-(To be documented based on the project structure)
-
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements.
 
