@@ -7,8 +7,8 @@ Welcome to ThirtySix Studio, a modern, minimalistic agency portfolio built with 
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
 - [License](#license)
@@ -34,7 +34,7 @@ Ensure you have Node.js and npm installed.
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone https://github.com/euii-ii/thirty-six-studio-clone.git
    ```
 2. Navigate to the project directory:
    ```sh
